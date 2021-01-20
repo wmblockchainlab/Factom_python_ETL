@@ -1,0 +1,5 @@
+This project is a foundational Data warehouse and ETL tool for extracting and warehousing data from the Factom Blockchain and other data. This tool will be useful for creating formatted data to do analysis on the Factom ecosystem.  
+
+The project is built in python and uses the Factom python API to read the Factom blockchain. 
+
+More detailed steps will be provided soon.
